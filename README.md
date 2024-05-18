@@ -14,6 +14,7 @@
 
 ## PROJECTS
 ### Project 1: E-Commerce Website
+![E-Commerce Website](https://github.com/johndoe/e-commerce-website/raw/main/screenshot.jpg)
 - Description: Developed a full-stack e-commerce website using MERN stack (MongoDB, Express.js, React.js, Node.js). Implemented features such as user authentication, product listing, shopping cart, and checkout.
 ### Project 2: Food Pantry Website
 - Description: Developed food-handling website as part of a group using XAMPP, PHP, HTML, CSS, Bootstrap, and Firebase. Included features and components of user verification, accessing data in real-time.
